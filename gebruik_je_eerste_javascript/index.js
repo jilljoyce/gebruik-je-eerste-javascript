@@ -1,0 +1,10 @@
+console.log('Hello Winc Academy');
+        let name = 'Jill';
+        let age = 26;
+        console.log(age);
+        age = 'zesentwintig';
+        console.log(age);
+        let stringValue = '4' + '4';
+        console.log(stringValue);
+        let numberValue = 5 - 20;
+        console.log(numberValue);
